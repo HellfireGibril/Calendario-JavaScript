@@ -28,7 +28,7 @@ El div "contenedor" puedes colocarlo donde quieras.
 ```
 
 ## Donde:  
-* `"main", "mes", "dia_semana", "dias"`Son los nombres de las clases descitas en **css/calendario.css**. Puedes cambiar tus estilos segun tu diseño.
+* `"main", "mes", "dia_semana", "dias"`Son los nombres de las clases descritas en **css/calendario.css**. Puedes cambiar tus estilos segun tu diseño.
   * `"main"` : Clase que abarca a toda la tabla del calendario.
   * `"mes"` : Clase de la cabecera Mes - Año.
   * `"dia_semana"` : Clase de la fila de los nombres de los dias.
